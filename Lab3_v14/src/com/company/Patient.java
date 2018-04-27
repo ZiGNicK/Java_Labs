@@ -1,5 +1,13 @@
 package com.company;
 
+/**
+ * <h1>Patient</h1>
+ * Класс-наследник от Man, который представляет пациента
+ * @author Nikolai Dik
+ * @version 1.2
+ * @since 2-04-2018
+ */
+
 public class Patient extends Man {
 
     private String throatStatus = "Healthy";

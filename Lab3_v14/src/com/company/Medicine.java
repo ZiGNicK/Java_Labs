@@ -1,5 +1,13 @@
 package com.company;
 
+/**
+ * <h1>Patient</h1>
+ * Класс, который описывает лекарство
+ * @author Nikolai Dik
+ * @version 1.2
+ * @since 2-04-2018
+ */
+
 public class Medicine {
     private String symptoms;
 

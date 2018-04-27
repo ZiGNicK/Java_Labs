@@ -1,5 +1,13 @@
 package com.company;
 
+/**
+ * <h1>Man</h1>
+ * Абстрактный класс описывающий типичного человека
+ * @author Nikolai Dik
+ * @version 1.2
+ * @since 2-04-2018
+ */
+
 public abstract class Man {
     protected String name;
     protected int age;

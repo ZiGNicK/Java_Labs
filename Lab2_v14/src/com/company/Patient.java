@@ -42,6 +42,7 @@ public class Patient extends Man
 
     public String getSymptoms() {
         return this.illness.getSymptoms();
+
     }
 
     public void setSymptoms(String symptoms) {

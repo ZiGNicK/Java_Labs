@@ -27,7 +27,7 @@ import java.util.List;
  * Класс предназначенный для реализации графического пользовательского интерфейса для работы с программой
  * @author Nikolai Dik
  * @version 1.2
- * @since 25-03-2018
+ * @since 2-04-2018
  */
 
 public class GUI extends Application{
@@ -188,7 +188,7 @@ public class GUI extends Application{
      * Этот метод создает новое окно ошибки с заданным текстом
      * @author Nikolai Dik
      * @version 1.2
-     * @since 25-03-2018
+     * @since 2-04-2018
      */
 
     private void errorMessage(String message)
