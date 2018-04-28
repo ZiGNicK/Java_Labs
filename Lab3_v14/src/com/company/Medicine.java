@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Patient</h1>
+ * <h1>Medicine</h1>
  * Класс, который описывает лекарство
  * @author Nikolai Dik
  * @version 1.2

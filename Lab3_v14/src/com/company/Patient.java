@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Patient</h1>
+ * <h1>Patient extends Man</h1>
  * Класс-наследник от Man, который представляет пациента
  * @author Nikolai Dik
  * @version 1.2

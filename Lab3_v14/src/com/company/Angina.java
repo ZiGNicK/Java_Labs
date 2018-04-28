@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Angina</h1>
+ * <h1>Angina extends Illness</h1>
  * Класс-наследник от Illness, который представляет типичную ангину
  * @author Nikolai Dik
  * @version 1.2

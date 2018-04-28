@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Main</h1>
+ * <h1>Main Start Class</h1>
  * Головной класс предназначенный для запуска программы
  * @author Nikolai Dik
  * @version 1.2

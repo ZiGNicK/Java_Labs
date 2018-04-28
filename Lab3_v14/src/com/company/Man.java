@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Man</h1>
+ * <h1>Abstract Man</h1>
  * Абстрактный класс описывающий типичного человека
  * @author Nikolai Dik
  * @version 1.2

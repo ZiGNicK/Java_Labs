@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Doctor</h1>
+ * <h1>Doctor extends Man</h1>
  * Класс-наследник от Man, который описывает доктора
  * @author Nikolai Dik
  * @version 1.2

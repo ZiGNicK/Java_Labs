@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Illness</h1>
+ * <h1>Abstract Illness</h1>
  * Абстрактный класс описывающий типичную болезнь
  * @author Nikolai Dik
  * @version 1.2

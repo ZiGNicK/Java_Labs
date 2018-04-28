@@ -1,7 +1,7 @@
 package com.company;
 
 /**
- * <h1>Flu</h1>
+ * <h1>Flu extends Illness</h1>
  * Класс-наследник от Illness, который представляет типичный грипп
  * @author Nikolai Dik
  * @version 1.2
