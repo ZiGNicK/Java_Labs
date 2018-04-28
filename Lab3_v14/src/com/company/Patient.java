@@ -25,6 +25,14 @@ public class Patient extends Man {
         this.flu = new Flu(this);
     }
 
+    /**
+     * <h1>Complain</h1>
+     * Метод для жалобы пациента
+     * @author Nikolai Dik
+     * @version 1.2
+     * @since 2-04-2018
+     * @param doctor доктор, к которому обращается пациент
+     */
     public void Complain(Doctor doctor){
         if (angina != null)
             doctor.Diagnose(this, angina.symptoms);

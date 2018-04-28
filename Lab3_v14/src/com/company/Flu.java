@@ -21,6 +21,7 @@ public class Flu extends Illness {
      * @author Nikolai Dik
      * @version 1.2
      * @since 2-04-2018
+     * @param patient пациент с этой болезнью
      */
     public void CauseCough(Patient patient){
         patient.setLungsStatus("INFECTED!");

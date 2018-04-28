@@ -23,6 +23,8 @@ public class Doctor extends Man{
      * @author Nikolai Dik
      * @version 1.2
      * @since 2-04-2018
+     * @param patient больной пациент
+     * @param symptoms симптомы пациента
      */
     public void Diagnose(Patient patient, String symptoms){
         if (symptoms.equals(medicine.getSymptoms()))

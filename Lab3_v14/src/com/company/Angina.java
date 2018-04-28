@@ -21,6 +21,7 @@ public class Angina extends Illness {
      * @author Nikolai Dik
      * @version 1.2
      * @since 2-04-2018
+     * @param patient пациент с этой болезнью
      */
     public void CauseSoreThroat(Patient patient){
         patient.setThroatStatus("INFECTED!");
